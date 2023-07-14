@@ -1,0 +1,9 @@
+3 Observations that can be made from the data:
+
+1. Tumor Volume: The mean and median tumor volumes vary across different drug regimens. Capomulin and Ramicane have relatively lower mean and median tumor volumes compared to other drug regimens like Ketapril, Naftisol, and Placebo. This suggests that Capomulin and Ramicane might be more effective in reducing tumor volume.
+
+2. Variability: The variance, standard deviation, and standard error of the mean (SEM) provide insights into the variability of tumor volume within each drug regimen. Drug regimens with higher variance and standard deviation, such as Ketapril, Naftisol, Placebo, and Stelasyn, exhibit more variability in tumor volume measurements. On the other hand, drug regimens like Capomulin and Ramicane have lower variance and standard deviation, indicating less variability in tumor volume measurements within those groups.
+
+3. Propriva and Infubinol: Propriva and Infubinol show similar mean and median tumor volumes, but Propriva has a slightly higher variance compared to Infubinol. However, both drugs have relatively higher tumor volumes compared to Capomulin and Ramicane. This suggests that Propriva and Infubinol may be less effective in reducing tumor size compared to Capomulin and Ramicane.
+
+Overall, the data provides information on the central tendency, variability, and SEM of tumor volume for different drug regimens. These observations can be used to compare the effectiveness and consistency of different treatments in reducing tumor size.
